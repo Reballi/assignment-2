@@ -46,3 +46,11 @@ button{
    border-radius: 5px; 
    padding: 4% 94%;
 }
+.a{
+    border:solid black ;
+    width: 40%;
+    margin: 4% 0 0 30%;
+    padding: 2% 0 0 4%;
+    border-radius: 5px 0;
+    border-radius: 5px;
+}
